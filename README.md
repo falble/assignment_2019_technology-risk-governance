@@ -1,4 +1,4 @@
-# assignment_technology-risk-governance
+# assignment_2019_technology-risk-governance
 The 2011 Playstation Network's Attack
 
 **Francesco Albertini**, **Filippo Lafronza**, **Guglielmo Ranieri**
