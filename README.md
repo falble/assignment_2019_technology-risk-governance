@@ -10,4 +10,4 @@ By looking at different industrial domains, students should identify a relevant 
 The paper should cover this main points:
 - Description of the company/system of interest and of the event, based on publicly available documentation
 - Model-based in-depth analysis of the accident by applying the most appropriate technique, considering both technical and organizational factors
-- Critical discussionof the appropriateness of the implemented countermeasures, and generalization of the lesson learned to improve safety performance in the specific industry
+- Critical discussion of the appropriateness of the implemented countermeasures, and generalization of the lesson learned to improve safety performance in the specific industry
