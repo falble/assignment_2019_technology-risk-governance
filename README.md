@@ -3,7 +3,7 @@ The 2011 Playstation Network's Attack
 
 **Francesco Albertini**, **Filippo Lafronza**, **Guglielmo Ranieri**
 
-# Assignment Description:
+
 ## Critical Incident Report
 By looking at different industrial domains, students should identify a relevant industrial accident/disaster involving cyber or IT risk factors, for which enough secondary data are available from different sources (technical and scientific)
 
